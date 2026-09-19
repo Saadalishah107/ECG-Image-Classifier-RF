@@ -4,7 +4,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Random%20Forest-orange)
 ![Computer Vision](https://img.shields.io/badge/Feature%20Extraction-HOG-green)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter%20%2F%20Colab-orange)
-![Accuracy](https://img.shields.io/badge/Test%20Accuracy-94.94%25-brightgreen)
+
 
 A classical machine-learning pipeline for **four-class ECG image classification** using **Histogram of Oriented Gradients (HOG)** for image feature extraction and a **Random Forest classifier** for multiclass prediction.
 
@@ -395,16 +395,6 @@ Weighted F1           : 0.9492
 Macro ROC-AUC         : 0.9958
 Bootstrap 95% CI      : 93.43% – 96.34%
 ```
-
----
-
-# Author
-
-**Saadalishah107**
-
-GitHub: [github.com/Saadalishah107](https://github.com/Saadalishah107)
-
-Repository: [ECG-Image-Classifier-RF](https://github.com/Saadalishah107/ECG-Image-Classifier-RF)
 
 ---
 
